@@ -12,3 +12,4 @@ This repository Contains the Assignments of the Course : HTML, CSS, and JavaScri
 - [Module 2](https://ashutosh-pmishra.github.io/Coursera-HTML-CSS-JavaScript-for-Web-Developers/Assignments/Module-2-solution/)
 - [Module 3](https://ashutosh-pmishra.github.io/Coursera-HTML-CSS-JavaScript-for-Web-Developers/Assignments/Module-3-solution/)
 - [Module 4](https://ashutosh-pmishra.github.io/Coursera-HTML-CSS-JavaScript-for-Web-Developers/Assignments/Module-4-solution/)
+- [Module 5](https://ashutosh-pmishra.github.io/Coursera-HTML-CSS-JavaScript-for-Web-Developers/Assignments/Module-5-solution/)
